@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container{
+    background-color: yellow;
+}
+.button{
+    background-color:skyblue;
+    color:white;
+    border-width:0px;
+    border-radius:5px;
+}
+.fruits-container{
+    background-color: white;
+    margin:20px;
+    border-radius: 10px;
+}
+.fruit-container{
+    display:flex;
+    flex-direction:column;
+}
